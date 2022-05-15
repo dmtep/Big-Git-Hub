@@ -1,0 +1,8 @@
+1 ## Python template
+2 # Byte-compiled /optimized/DLL files
+3 __pycache__/
+4 *.py[cod]
+5 log/
+6 docker- compose.yaml
+7 resources/products.json
+8 .DS_store
